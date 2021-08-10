@@ -13,7 +13,7 @@
 define('ROOT_DIR',__DIR__ . '/');//程序目录
 define('LANG_PATH',ROOT_DIR . 'i18n/');//i18n语言文件
 
-include ROOT_DIR  . 'set.php'
+include ROOT_DIR  . 'set.php';
 include LANG_PATH . 'i18n.class.php';
 
 //输出
